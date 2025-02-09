@@ -5,7 +5,7 @@
 
 <div align="center">
   <picture>
-    <img src="res/ptsiw.png" width="25%">
+    <img src="https://github.com/SynthouS/ptsiw/raw/main/res/ptsiw.png" width="25%">
   </picture>
   <h2>Put this script in website</h2>
   
