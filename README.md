@@ -11,7 +11,7 @@
   
   allows you to embed your code locally on the site
   
-❄ | [Chrome Based](https://chromewebstore.google.com/) | [Firefox](https://addons.mozilla.org/en-US/firefox/) | [Releases](https://github.com/SynthouS/ptsiw/releases) | ❄
+❄ | [Releases](https://github.com/SynthouS/ptsiw/releases) | ❄
 </div>
 
 # Usage
