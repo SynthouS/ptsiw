@@ -37,8 +37,8 @@ see [LICENSE](LICENSE)
 <h3>Themes</h3>
 
 - Input `ptsiw://Old` to without CSS theme
-- Input `ptsiw://myou` to materialYou theme
-- Input `ptsiw://rr` to 🌈 Rainbow 🌈 theme
+- Input `ptsiw://mu` to standart theme
+- Input `ptsiw://rainbow` to 🌈 Rainbow 🌈 theme
 <h3>Test</h3>
 
 - Input `ptsiw://test` for DVD
