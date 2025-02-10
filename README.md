@@ -41,8 +41,4 @@ see [LICENSE](LICENSE)
 - Input `ptsiw://rr` to 🌈 Rainbow 🌈 theme
 <h3>Test</h3>
 
-- Input `ptsiw://test` for Hello World
-
-<h3>Funny</h3>
-
-- Input `ptsiw://destroy` to destroy all elements in site
+- Input `ptsiw://test` for DVD
