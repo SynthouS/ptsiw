@@ -9,7 +9,7 @@
   </picture>
   <h2>Put this script in website</h2>
   
-  allows you to embed your Web code locally on the site
+  allows you to embed your code locally on the site
   
 ❄ | [Chrome Based](https://chromewebstore.google.com/) | [Firefox](https://addons.mozilla.org/en-US/firefox/) | [Releases](https://github.com/SynthouS/ptsiw/releases) | ❄
 </div>
