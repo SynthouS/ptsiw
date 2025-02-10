@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Put This Script in Website",
     "version": "25.2",
-    "description": "allows you to embed your javascript code locally on the site",
+    "description": "allows you to embed your code locally on the site",
     "sandbox": {
       "pages": ["sandbox.html"]
     },
